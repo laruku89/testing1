@@ -23,3 +23,4 @@ product apa saja yang sedang di jual, dan yang lagi trend, bahkan product baru s
 2. Ekstrak zip (jika mendownload versi zip)
 3. Double Klik file index.html
 4. finish
+# testing
